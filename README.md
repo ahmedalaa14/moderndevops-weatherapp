@@ -10,7 +10,7 @@
 - [Tech Stack](#tech-stack)
 
 ## Overview
-This project is a microservices-based weather application, built to practice various DevOps techniques. It demonstrates containerization, orchestration, and automation. The application provides weather data and includes user authentication.
+- This project is a microservices-based weather application, built to practice various DevOps techniques. It demonstrates containerization, orchestration, and automation. The application provides weather data and includes user authentication.
 
 ## Features
 - Microservices Architecture: The application is divided into frontend (UI) and backend (Go and Python-based services).
